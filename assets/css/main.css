@@ -30,7 +30,7 @@ section, summary, time, mark, audio, video {
 
 }
 p{
-	background: #000000;
+	background: linear-gradient(184deg, rgba(15,32,39,1) 0%, rgba(32,58,67,1) 59%, rgba(44,83,100,1) 90%);
 	border-radius: 10px;
 }
 
